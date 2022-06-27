@@ -41,3 +41,7 @@ json (enabled by default - don't turn it off)
 mbstring
 mysqlnd
 xml (enabled by default - don't turn it off)
+
+## Environment
+
+Xampp: xampp-windows-x64-7.4.27-2-VC15-installer
